@@ -1,0 +1,44 @@
+															BOMBERMAN
+														Review And Instructions
+
+        Bomberman is a assembly robot working in a bomb factory, and is the best bomb component in the factory,
+        Bomberman gets bored with preparing the bombs in the factory day after day without stopping, following a rumor that a robot
+        When he manages to get out of the underground factory, he will get a wish, and he begins a journey through the plant so he can
+        To ask a wish to become a human being, the main obstacle in his way is the resistance of factory guards, who do
+        .All they can to keep the factory functioning as usual 
+        To escape, Bomberman must find his way through the maze while avoiding the enemies, the leading doors
+        For more maze rooms the next steps in the game are hidden by rocks, which Bomberman needs to blow up,
+        There are things that can improve Bomberman's bombs, such as objects that help create powerful bombs
+        Or remote-controlled bombs.
+
+        Robot -> This is the character that represents the player, the purpose of the game is to bring the robot to the exit door
+                       .In a limited number of steps and life without being caught by the guards
+
+        Guards -> Computer-controlled characters. Try to prevent the player from reaching the exit door, if they are
+                           Touching the actor's player is disqualified ["He is losing his life"]
+
+        The exit door -> The desired goal, a stage that successfully ends with the arrival of the robot to the exit door
+   
+        Walls -> No figure can pass through a wall, include bombs
+
+        Rocks -> Other obstacles standing in the way of the characters, although the figure can not pass a rock, but
+                          The bombs the player assumes blow up the rocks and then the passage is available to everyone
+
+        Bombs -> The player has a limited inventory of bombs, otherwise specified, which he can assume, any bomb the player assumes
+                         Explodes after four lines and destroys any robot or guardian or rock figure
+                         In her square or in one of the four adjacent squares [up, down, right, and left]
+                         You can put up to two bombs on the board at any given 
+
+        Gift -> Adds five bombs to the player.
+
+        												GAME INSTRUCTIONS:
+
+        Arrows -> Move the robot
+        b -> Put bomb
+        r -> Reload the level (decreas one life)
+		m -> On/Off music
+		s -> On/Off sound
+		space -> Pause
+        esc -> Returns to menu
+
+		The game build by Menachem Engel & Elchanan Madmon as a finale project of OOP 1 course.
